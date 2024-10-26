@@ -58,9 +58,8 @@ I’m always on the lookout for new ways to solve problems and make tech accessi
 
 ---
 
-📫 **Let’s Connect**  
-- 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](#)  
-- ✉️ [Email](mailto:#)
+📫 **Let’s Connect**    
+- 💼 [LinkedIn](https://www.linkedin.com/in/meet-solanki-239a90276/)  
+- ✉️ [Email](mailto:#meetreet18@gmail.com)
 
 **Thanks for stopping by! Let’s build something awesome together!** 🎉
